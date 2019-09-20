@@ -1,4 +1,4 @@
-# purescript-strings
+# purescript-strings 
 
 [![Latest release](http://img.shields.io/github/release/purescript/purescript-strings.svg)](https://github.com/purescript/purescript-strings/releases)
 [![Build status](https://travis-ci.org/purescript/purescript-strings.svg?branch=master)](https://travis-ci.org/purescript/purescript-strings)
